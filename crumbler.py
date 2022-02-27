@@ -417,6 +417,8 @@ def slash_trim(s):
 
 # TODO: Site ToC/map
 # TODO: rebuild with pathlib
+# TODO: Generate search index (i.e. for Lunr.js)
+# TODO: Allow for other template components like stat blocks
 
 sys_args = parse_sys_args()
 

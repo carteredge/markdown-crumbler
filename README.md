@@ -38,7 +38,7 @@ git clone https://github.com/carteredge/markdown-crumbler.git
 
 ### 3. Setting up a Virtual Environment (Optional)
 
-I recommend setting up a virtual environment for running Markdown Crumbler. This isn't required, especially as I attempted to keep external dependencies for the script to a miminum. It also adds an extra step whenever you run it (although, if you're like me, you'll want to set up a script file to do that for you).
+I recommend setting up a virtual environment for running Markdown Crumbler. This isn't required, especially as I attempted to keep external dependencies for the script to a minimum. It also adds an extra step whenever you run it (although, if you're like me, you'll want to set up a script file to do that for you).
 
 That said, it keeps your global Python environment clean, which in simple terms means that if you want to run any other projects in Python, you won't have to worry about them installing something that conflicts with something used by Markdown Crumbler (especially if you also run *them* with a virtual environment).
 
@@ -86,7 +86,7 @@ python crumbler.py --help
 
 ## Usage
 
-To use the Markdown Crumbler, all you really need to do is use a command line terminal to navigat to the topmost directory of the Markdown files you wish to convert to HTML and run:
+To use the Markdown Crumbler, all you really need to do is use a command line terminal to navigate to the topmost directory of the Markdown files you wish to convert to HTML and run:
 
 ```
 python crumbler.py
